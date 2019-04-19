@@ -1,0 +1,15 @@
+{
+  "name": "listener",
+  "version": "1.0.0",
+  "description": "relay http listener",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "hyco-https": "^1.3.0"
+  }
+}

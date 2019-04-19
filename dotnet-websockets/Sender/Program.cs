@@ -11,7 +11,7 @@ namespace Client
     {
         private static string RelayNamespace;
         private const string ConnectionName = "hc1";
-        private const string KeyName = "ListenerSharedAccessKey";
+        private const string KeyName = "SenderSharedAccessKey";
         private static string Key;
 
         static void Main(string[] args)
